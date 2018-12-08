@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ShellGame</string>
-    <string name="new_game_button">Новая игра</string>
+    <string name="restart_game_button">Новая игра</string>
     <string name="game_name">Наперстки</string>
 </resources>
